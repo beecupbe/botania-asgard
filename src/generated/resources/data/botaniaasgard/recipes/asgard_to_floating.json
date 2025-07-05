@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "botaniaasgard:asgardandelion"
+    },
+    "D": {
+      "item": "minecraft:dirt"
+    },
+    "S": {
+      "item": "botania:grass_seeds"
+    }
+  },
+  "pattern": [
+    " A ",
+    " S ",
+    " D "
+  ],
+  "result": {
+    "item": "botaniaasgard:asgardandelion_floating"
+  },
+  "show_notification": true
+}

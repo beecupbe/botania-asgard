@@ -1,0 +1,6 @@
+// 1.20.1	2025-07-04T18:20:15.4366913	Tags for minecraft:block mod id botaniaasgard
+42f46e9fb7b49cd971919fc09ebd2d22feccf29d data/botania/tags/blocks/floating_flowers.json
+e5d6e1819c37235aa6b977d776dbf70fb4a433cf data/botania/tags/blocks/generating_special_flowers.json
+e5d6e1819c37235aa6b977d776dbf70fb4a433cf data/botania/tags/blocks/special_flowers.json
+896faf6ad9d2ae9942a69b3c938ad4ef8c7d4459 data/minecraft/tags/blocks/flowers.json
+42f46e9fb7b49cd971919fc09ebd2d22feccf29d data/minecraft/tags/blocks/mineable/shovel.json

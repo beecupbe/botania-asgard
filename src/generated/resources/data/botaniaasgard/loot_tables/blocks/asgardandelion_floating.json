@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "botaniaasgard:asgardandelion_floating"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "botaniaasgard:blocks/asgardandelion_floating"
+}
